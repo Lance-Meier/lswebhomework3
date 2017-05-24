@@ -11,11 +11,12 @@
 
 ```
 
-My name is:
+My name is: Lance Meier
 
-I like to:
+I like to: Code, Ride Bikes, Garden, and Eat Tacos
 
-I'm learning:
+I'm learning: HTML CSS, JS, and Jquery
+
 
 ```
 
